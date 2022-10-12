@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "904115487135",
+    "project_id": "fishform-5f325",
+    "storage_bucket": "fishform-5f325.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904115487135:android:2ee29cf3340766275cbdaa",
+        "android_client_info": {
+          "package_name": "com.authenetication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904115487135-kcdmkkvc1tlhbbdi0ukkhqo3khoks2b3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0RolbVGu0sTR3RppoqM6GPlTjsrRSm2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904115487135-kcdmkkvc1tlhbbdi0ukkhqo3khoks2b3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
